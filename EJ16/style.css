@@ -1,0 +1,14 @@
+
+body{
+    text-align: center;
+}
+
+.reloj{
+    position: absolute;
+    left: 45%;
+    width: 200px;
+    border: 2px solid;
+    font-weight: bold;
+    font-size:xx-large ;
+}
+

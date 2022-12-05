@@ -1,0 +1,70 @@
+body{
+    background-color: #4db7ad;
+}
+
+.calculadora{
+    width: 400px;
+    height: 570px;
+    box-shadow: 2px 2px 5px 0px rgb(82, 82, 82);
+}
+.pantalla{
+    background-color: white;
+    width: 400px;
+    height: 170px;
+    color: #8d6e63;
+}
+
+.numeros{
+    background-color: #8d6e63;
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+
+.operadores{
+    background-color: #4db7ad;
+    width: 100px;
+    height: 400px;
+    float: left;
+
+}
+
+button#numeros{
+    background-color: #4db7ac00;
+    color: white;
+    width: 97px;
+    height: 100px;
+    border: none;
+}
+button#numeros:hover{
+    background-color: #ffffff3f;
+}
+
+button#operadores{
+    background-color: #4db7ac00;
+    color: white;
+    width: 100px;
+    height: 66.6px;
+    border: none;
+}
+
+button#operadores:hover{
+    background-color: #ffffff3f;
+}
+
+input{
+    width: 390px;
+    height: 100px;
+    border:none;
+    color: #8d6e63;
+    font-size: 60px;
+    text-align: right;
+}
+
+
+input#resultadopant{
+    height: 30px;
+    pointer-events: none;
+    font-size: 40px;
+    color: #99837b;
+}

@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+td {
+    border: 1px solid;
+}
+table{
+    margin: auto;
+    width: 70%;
+
+}
+
+#mensaje{
+    font-size: xx-large;
+    font-weight: bold;
+}
